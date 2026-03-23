@@ -1,4 +1,3 @@
-# os-lab-deadlock-IDTB110255
 # OS Lab - Bash Script 3 and Deadlock
 **Name:** Nhem Sun Serinyuth  
 **Gen:** 11 | Cyber | G2  
